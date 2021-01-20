@@ -35,6 +35,7 @@
                 <li><a href="#"><strong>ĐT : </strong>0374551927</a></li>
                 <li class="divider"></li>
                 <li class="divider"></li>
+                <li class="divider"></li>
             </ul>
         </div>
     </div>
